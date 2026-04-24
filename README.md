@@ -1,2 +1,7 @@
-# demo-as-odontologia-lugano
-Demo web para AS ODONTOLOGÍA LUGANO — diseñada por eterlab.
+# AS ODONTOLOGÍA LUGANO
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
